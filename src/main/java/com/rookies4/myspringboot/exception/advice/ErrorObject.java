@@ -1,4 +1,4 @@
-package com.rookies4.myspringboot.advice;
+package com.rookies4.myspringboot.exception.advice;
 
 import lombok.Data;
 import java.time.LocalDateTime;
